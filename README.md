@@ -1,13 +1,9 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# Marketing Agency; Code Refactor-HTML/CSS
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+In this application the webpage meets accessibility standards. I condensed the CSS to not be repetiative 
+and be more efficient. In addition, I added a few comments to give details on html elements and CSS optimization changes.
 
 ## User Story
 
@@ -37,9 +33,11 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./images/Final-Capture.png)
 
 ## Deploy Application
+[Horiseon Marketing Agency](https://jjennifer.github.io/Horiseon-HTML-CSS-Git/#social-media-marketing)
+
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
